@@ -157,7 +157,7 @@
     "cli-table2": "0.2.0",
     "commander": "^2.9",
     "cron": "1.1.0",
-    "debug": "2.2.0",
+    "debug": "2.6.9",
     "eventemitter2": "1.0.5",
     "fclone": "1.0.9",
     "mkdirp": "0.5.1",
